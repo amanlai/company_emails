@@ -1,6 +1,6 @@
 # Company emails
 
-By respecting (and explicitly constructing) the graph structure the emails sent in a given company, two simple algorithms are trained: 
+By using (and explicitly constructing) the graph structure the emails sent in a given company, two simple algorithms are trained: 
 
 (a) one that predicts whether an email is from a manager or not.
 
